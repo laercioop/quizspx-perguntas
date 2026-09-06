@@ -5,8 +5,8 @@ Fácil
 1. Qual é a unidade básica estrutural e funcional de todos os seres vivos?
 a) Molécula   b) Célula   c) Átomo   d) Tecido
 
-2. Qual cientista formulou a Lei da Gravitação Universal?
-a) Galileu Galilei   b) Isaac Newton   c) Johannes Kepler   d) Nicolau Copérnico
+2. Qual cônego e astrônomo polonês formulou a teoria heliocêntrica, segundo a qual a Terra e os demais planetas giram ao redor do Sol?
+a) Johannes Kepler   b) Nicolau Copérnico   c) Galileu Galilei   d) Tycho Brahe
 
 3. Em qual organela da célula vegetal ocorre a fotossíntese?
 a) Mitocôndria   b) Cloroplasto   c) Núcleo   d) Vacúolo
@@ -17,8 +17,8 @@ a) Esquilo-voador   b) Morcego   c) Lêmure-voador   d) Petauro-do-açúcar
 5. Em que ano caiu o Muro de Berlim?
 a) 1985   b) 1989   c) 1991   d) 1993
 
-6. Quem escreveu "Cem Anos de Solidão"?
-a) Jorge Luis Borges   b) Gabriel García Márquez   c) Mario Vargas Llosa   d) Pablo Neruda
+6. Quem escreveu o livro "Três Alqueires e uma Vaca"?
+a) Gustavo Corção   b) Nelson Rodrigues   c) Ariano Suassuna   d) Alceu Amoroso Lima
 
 Médio
 
@@ -62,8 +62,8 @@ Difícil
 18. Qual é o único osso do corpo humano que não se articula diretamente com nenhum outro osso?
 a) Fêmur   b) Hioide   c) Rótula   d) Costela flutuante
 
-19. Qual imperador romano, juntamente com Graciano e Valentiniano II, promulgou o Édito de Tessalônica em 380 d.C., que estabeleceu o cristianismo niceno como religião oficial do Império Romano?
-a) Nero   b) Constantino   c) Teodósio I   d) Diocleciano
+19. Qual imperador tornou o cristianismo niceno a religião oficial do Império Romano em 380, pelo Édito de Tessalônica, e é tradicionalmente associado à proibição dos Jogos Olímpicos antigos em 393?
+a) Constantino I   b) Justiniano I   c) Teodósio I   d) Diocleciano
 
 20. Quais destas Maravilhas do Mundo Antigo foram destruídas por terremotos?
 a) Colosso de Rodes e Farol de Alexandria
@@ -84,7 +84,7 @@ Gabarito
 3. b
 4. b
 5. b
-6. b
+6. a
 7. b
 8. c
 9. b

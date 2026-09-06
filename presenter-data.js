@@ -16,13 +16,13 @@ window.PRESENTER_QUESTIONS = [
     "id": "general-2",
     "topic": "general",
     "difficulty": "easy",
-    "question": "Qual cientista formulou a Lei da Gravitação Universal?",
-    "answer": "Isaac Newton",
+    "question": "Qual cônego e astrônomo polonês formulou a teoria heliocêntrica, segundo a qual a Terra e os demais planetas giram ao redor do Sol?",
+    "answer": "Nicolau Copérnico",
     "options": [
-      "Galileu Galilei",
-      "Isaac Newton",
       "Johannes Kepler",
-      "Nicolau Copérnico"
+      "Nicolau Copérnico",
+      "Galileu Galilei",
+      "Tycho Brahe"
     ]
   },
   {
@@ -68,13 +68,13 @@ window.PRESENTER_QUESTIONS = [
     "id": "general-6",
     "topic": "general",
     "difficulty": "easy",
-    "question": "Quem escreveu \"Cem Anos de Solidão\"?",
-    "answer": "Gabriel García Márquez",
+    "question": "Quem escreveu o livro \"Três Alqueires e uma Vaca\"?",
+    "answer": "Gustavo Corção",
     "options": [
-      "Jorge Luis Borges",
-      "Gabriel García Márquez",
-      "Mario Vargas Llosa",
-      "Pablo Neruda"
+      "Gustavo Corção",
+      "Nelson Rodrigues",
+      "Ariano Suassuna",
+      "Alceu Amoroso Lima"
     ]
   },
   {
@@ -237,11 +237,11 @@ window.PRESENTER_QUESTIONS = [
     "id": "general-19",
     "topic": "general",
     "difficulty": "hard",
-    "question": "Qual imperador romano, juntamente com Graciano e Valentiniano II, promulgou o Édito de Tessalônica em 380 d.C., que estabeleceu o cristianismo niceno como religião oficial do Império Romano?",
+    "question": "Qual imperador tornou o cristianismo niceno a religião oficial do Império Romano em 380, pelo Édito de Tessalônica, e é tradicionalmente associado à proibição dos Jogos Olímpicos antigos em 393?",
     "answer": "Teodósio I",
     "options": [
-      "Nero",
-      "Constantino",
+      "Constantino I",
+      "Justiniano I",
       "Teodósio I",
       "Diocleciano"
     ]
@@ -445,13 +445,13 @@ window.PRESENTER_QUESTIONS = [
     "id": "sports-13",
     "topic": "sports",
     "difficulty": "medium",
-    "question": "Depois do Brasil, com 5 títulos, qual seleção tem mais títulos de Copa do Mundo, empatada com a Itália em 4 conquistas?",
-    "answer": "Alemanha",
+    "question": "Qual país conquistou três títulos da Copa do Mundo masculina de futebol?",
+    "answer": "Argentina",
     "options": [
       "Argentina",
-      "Alemanha",
       "Uruguai",
-      "Espanha"
+      "Espanha",
+      "Inglaterra"
     ]
   },
   {
@@ -484,13 +484,13 @@ window.PRESENTER_QUESTIONS = [
     "id": "sports-16",
     "topic": "sports",
     "difficulty": "medium",
-    "question": "Quem venceu a Copa do Mundo de 2026?",
-    "answer": "Espanha",
+    "question": "Quem venceu a Copa do Mundo de 2002?",
+    "answer": "Brasil",
     "options": [
-      "Argentina",
+      "Alemanha",
+      "Brasil",
       "França",
-      "Espanha",
-      "Inglaterra"
+      "Itália"
     ]
   },
   {
@@ -536,26 +536,26 @@ window.PRESENTER_QUESTIONS = [
     "id": "sports-20",
     "topic": "sports",
     "difficulty": "hard",
-    "question": "Segundo a contagem da FIFA, Pelé marcou 77 gols pela Seleção Brasileira em quantas partidas?",
-    "answer": "92",
+    "question": "Qual jogador foi campeão da Copa do Mundo mais vezes?",
+    "answer": "Pelé",
     "options": [
-      "77",
-      "91",
-      "92",
-      "113"
+      "Cafu",
+      "Pelé",
+      "Franz Beckenbauer",
+      "Diego Maradona"
     ]
   },
   {
     "id": "sports-21",
     "topic": "sports",
     "difficulty": "hard",
-    "question": "Qual ciclista igualou o recorde de cinco títulos no Tour de France em julho de 2026?",
-    "answer": "Tadej Pogačar",
+    "question": "Qual enxadrista permaneceu por mais tempo como campeão mundial, mantendo o título por 27 anos?",
+    "answer": "Emanuel Lasker",
     "options": [
-      "Mark Cavendish",
-      "Tadej Pogačar",
-      "Jonas Vingegaard",
-      "Remco Evenepoel"
+      "Garry Kasparov",
+      "Anatoly Karpov",
+      "Emanuel Lasker",
+      "José Raúl Capablanca"
     ]
   },
   {
@@ -582,19 +582,6 @@ window.PRESENTER_QUESTIONS = [
       "24",
       "25",
       "26"
-    ]
-  },
-  {
-    "id": "portuguese-2",
-    "topic": "portuguese",
-    "difficulty": "easy",
-    "question": "Como se chama o sinal gráfico \"~\", usado sobre letras como em \"ã\" e \"õ\"?",
-    "answer": "Til",
-    "options": [
-      "Crase",
-      "Til",
-      "Cedilha",
-      "Trema"
     ]
   },
   {
@@ -640,13 +627,13 @@ window.PRESENTER_QUESTIONS = [
     "id": "portuguese-6",
     "topic": "portuguese",
     "difficulty": "easy",
-    "question": "Em qual país europeu o português se consolidou como língua nacional?",
-    "answer": "Portugal",
+    "question": "Quais destas são cinco línguas derivadas do latim e atualmente oficiais em pelo menos um país?",
+    "answer": "Português, espanhol, francês, italiano e romeno",
     "options": [
-      "Espanha",
-      "Portugal",
-      "Itália",
-      "França"
+      "Português, espanhol, francês, italiano e romeno",
+      "Português, inglês, francês, italiano e alemão",
+      "Espanhol, francês, grego, romeno e neerlandês",
+      "Português, italiano, catalão, russo e francês"
     ]
   },
   {
@@ -692,13 +679,13 @@ window.PRESENTER_QUESTIONS = [
     "id": "portuguese-10",
     "topic": "portuguese",
     "difficulty": "medium",
-    "question": "Qual destas formas está gramaticalmente correta para indicar 12h30?",
-    "answer": "Meio-dia e meia",
+    "question": "Na frase \"Os alunos que estudaram passaram na prova\", qual é a função da oração \"que estudaram\"?",
+    "answer": "Oração subordinada adjetiva",
     "options": [
-      "Meio-dia e meia",
-      "Meio-dia e meio",
-      "As duas formas estão corretas",
-      "Nenhuma das duas está correta"
+      "Oração subordinada adverbial",
+      "Oração subordinada substantiva",
+      "Oração subordinada adjetiva",
+      "Oração coordenada explicativa"
     ]
   },
   {
@@ -718,13 +705,13 @@ window.PRESENTER_QUESTIONS = [
     "id": "portuguese-12",
     "topic": "portuguese",
     "difficulty": "medium",
-    "question": "Qual escritora brasileira, nascida na Ucrânia, é autora de \"A Hora da Estrela\"?",
-    "answer": "Clarice Lispector",
+    "question": "Qual das seguintes peças foi escrita pelo dramaturgo português Gil Vicente?",
+    "answer": "Auto da Barca do Inferno",
     "options": [
-      "Cecília Meireles",
-      "Clarice Lispector",
-      "Rachel de Queiroz",
-      "Lygia Fagundes Telles"
+      "Auto da Barca do Inferno",
+      "Os Lusíadas",
+      "Frei Luís de Sousa",
+      "Amor de Perdição"
     ]
   },
   {
@@ -796,13 +783,26 @@ window.PRESENTER_QUESTIONS = [
     "id": "portuguese-18",
     "topic": "portuguese",
     "difficulty": "medium-hard",
-    "question": "Lançado por Mário de Andrade em 1928, qual romance é uma das obras centrais do Modernismo brasileiro?",
-    "answer": "Macunaíma",
+    "question": "Qual escritor e religioso português do período barroco ficou célebre por seus sermões, marcados pela argumentação lógica, crítica social e uso elaborado da retórica?",
+    "answer": "Padre Antônio Vieira",
     "options": [
-      "Vidas Secas",
-      "Macunaíma",
-      "Grande Sertão: Veredas",
-      "Iracema"
+      "Padre Manuel da Nóbrega",
+      "Padre Antônio Vieira",
+      "Gregório de Matos",
+      "Luís de Camões"
+    ]
+  },
+  {
+    "id": "portuguese-2",
+    "topic": "portuguese",
+    "difficulty": "hard",
+    "question": "Qual é o nome do sinal diacrítico presente nas palavras \"órfã\", \"corações\" e \"limões\"?",
+    "answer": "Til",
+    "options": [
+      "Acento agudo",
+      "Til",
+      "Cedilha",
+      "Trema"
     ]
   },
   {
@@ -848,13 +848,13 @@ window.PRESENTER_QUESTIONS = [
     "id": "portuguese-22",
     "topic": "portuguese",
     "difficulty": "hard",
-    "question": "Qual língua de Portugal teve seus direitos linguísticos oficialmente reconhecidos pela Lei n.º 7/99, de 29 de janeiro?",
-    "answer": "Mirandês",
+    "question": "Portugal possui uma segunda língua oficialmente reconhecida além do português? Se sim, qual?",
+    "answer": "Sim, o mirandês",
     "options": [
-      "Galego",
-      "Mirandês",
-      "Catalão",
-      "Basco"
+      "Sim, o galego",
+      "Sim, o mirandês",
+      "Sim, o catalão",
+      "Não, somente o português é reconhecido"
     ]
   },
   {

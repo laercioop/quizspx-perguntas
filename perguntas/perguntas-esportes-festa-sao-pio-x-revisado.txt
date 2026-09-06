@@ -43,8 +43,8 @@ a) Emerson Fittipaldi   b) Nelson Piquet   c) Ayrton Senna   d) Rubens Barrichel
 12. Qual destes países já sediou a Copa do Mundo mais de uma vez: França, Argentina ou Portugal?
 a) Argentina   b) França   c) Portugal   d) Nenhum dos três
 
-13. Depois do Brasil, com 5 títulos, qual seleção tem mais títulos de Copa do Mundo, empatada com a Itália em 4 conquistas?
-a) Argentina   b) Alemanha   c) Uruguai   d) Espanha
+13. Qual país conquistou três títulos da Copa do Mundo masculina de futebol?
+a) Argentina   b) Uruguai   c) Espanha   d) Inglaterra
 
 14. Qual nadador norte-americano é o maior medalhista olímpico da história, com 28 medalhas no total, sendo 23 de ouro?
 a) Mark Spitz   b) Michael Phelps   c) Ryan Lochte   d) Caeleb Dressel
@@ -52,8 +52,8 @@ a) Mark Spitz   b) Michael Phelps   c) Ryan Lochte   d) Caeleb Dressel
 15. Qual velocista jamaicano é o dono do recorde mundial dos 100 metros rasos, com 9,58 segundos?
 a) Usain Bolt   b) Tyson Gay   c) Justin Gatlin   d) Noah Lyles
 
-16. Quem venceu a Copa do Mundo de 2026?
-a) Argentina   b) França   c) Espanha   d) Inglaterra
+16. Quem venceu a Copa do Mundo de 2002?
+a) Alemanha   b) Brasil   c) França   d) Itália
 
 Médio-Difícil
 
@@ -68,11 +68,11 @@ a) Flamengo   b) São Paulo   c) Palmeiras   d) Santos
 
 Difícil
 
-20. Segundo a contagem da FIFA, Pelé marcou 77 gols pela Seleção Brasileira em quantas partidas?
-a) 77   b) 91   c) 92   d) 113
+20. Qual jogador foi campeão da Copa do Mundo mais vezes?
+a) Cafu   b) Pelé   c) Franz Beckenbauer   d) Diego Maradona
 
-21. Qual ciclista igualou o recorde de cinco títulos no Tour de France em julho de 2026?
-a) Mark Cavendish   b) Tadej Pogačar   c) Jonas Vingegaard   d) Remco Evenepoel
+21. Qual enxadrista permaneceu por mais tempo como campeão mundial, mantendo o título por 27 anos?
+a) Garry Kasparov   b) Anatoly Karpov   c) Emanuel Lasker   d) José Raúl Capablanca
 
 22. Qual tenista espanhol se tornou o homem mais jovem da Era Aberta a completar o Grand Slam de carreira, ao vencer o Australian Open em 2026?
 a) Carlos Alcaraz   b) Rafael Nadal   c) Jannik Sinner   d) Alexander Zverev
@@ -91,13 +91,13 @@ Gabarito
 10. b
 11. c
 12. b
-13. b
+13. a
 14. b
 15. a
-16. c
+16. b
 17. c
 18. c
 19. a
-20. c
-21. b
+20. b
+21. c
 22. a

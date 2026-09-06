@@ -5,8 +5,6 @@ Fácil
 1. Quantas letras tem o alfabeto da língua portuguesa atualmente, incluindo k, w e y?
 a) 23   b) 24   c) 25   d) 26
 
-2. Como se chama o sinal gráfico "~", usado sobre letras como em "ã" e "õ"?
-a) Crase   b) Til   c) Cedilha   d) Trema
 
 3. De qual língua deriva historicamente a língua portuguesa?
 a) Grego   b) Latim   c) Árabe   d) Celta
@@ -17,8 +15,11 @@ a) Fernando Pessoa   b) Luís de Camões   c) José Saramago   d) Machado de Ass
 5. Qual escritor brasileiro escreveu "Dom Casmurro"?
 a) Machado de Assis   b) Jorge Amado   c) Clarice Lispector   d) Guimarães Rosa
 
-6. Em qual país europeu o português se consolidou como língua nacional?
-a) Espanha   b) Portugal   c) Itália   d) França
+6. Quais destas são cinco línguas derivadas do latim e atualmente oficiais em pelo menos um país?
+a) Português, espanhol, francês, italiano e romeno
+b) Português, inglês, francês, italiano e alemão
+c) Espanhol, francês, grego, romeno e neerlandês
+d) Português, italiano, catalão, russo e francês
 
 Médio
 
@@ -34,14 +35,14 @@ b) A fusão da preposição "a" com o artigo feminino "a"
 c) Uma conjunção
 d) Um pronome demonstrativo
 
-10. Qual destas formas está gramaticalmente correta para indicar 12h30?
-a) Meio-dia e meia   b) Meio-dia e meio   c) As duas formas estão corretas   d) Nenhuma das duas está correta
+10. Na frase "Os alunos que estudaram passaram na prova", qual é a função da oração "que estudaram"?
+a) Oração subordinada adverbial   b) Oração subordinada substantiva   c) Oração subordinada adjetiva   d) Oração coordenada explicativa
 
 11. Fernando Pessoa é famoso por escrever sob diversas identidades literárias fictícias, com biografias e estilos próprios. Como são chamadas?
 a) Pseudônimos   b) Heterônimos   c) Anagramas   d) Codinomes
 
-12. Qual escritora brasileira, nascida na Ucrânia, é autora de "A Hora da Estrela"?
-a) Cecília Meireles   b) Clarice Lispector   c) Rachel de Queiroz   d) Lygia Fagundes Telles
+12. Qual das seguintes peças foi escrita pelo dramaturgo português Gil Vicente?
+a) Auto da Barca do Inferno   b) Os Lusíadas   c) Frei Luís de Sousa   d) Amor de Perdição
 
 Médio-Difícil
 
@@ -60,10 +61,13 @@ a) A Bíblia traduzida   b) A Carta de Pero Vaz de Caminha   c) Os Lusíadas   d
 17. Quantos Estados-membros compõem atualmente a Comunidade dos Países de Língua Portuguesa (CPLP)?
 a) 6   b) 8   c) 9   d) 10
 
-18. Lançado por Mário de Andrade em 1928, qual romance é uma das obras centrais do Modernismo brasileiro?
-a) Vidas Secas   b) Macunaíma   c) Grande Sertão: Veredas   d) Iracema
+18. Qual escritor e religioso português do período barroco ficou célebre por seus sermões, marcados pela argumentação lógica, crítica social e uso elaborado da retórica?
+a) Padre Manuel da Nóbrega   b) Padre Antônio Vieira   c) Gregório de Matos   d) Luís de Camões
 
 Difícil
+
+2. Qual é o nome do sinal diacrítico presente nas palavras "órfã", "corações" e "limões"?
+a) Acento agudo   b) Til   c) Cedilha   d) Trema
 
 19. Qual é a forma de mesóclise adequada, segundo a norma-padrão, para a frase "Eu darei o livro a ele", substituindo "a ele" por um pronome?
 a) Dar-lhe-ei o livro   b) Lhe darei o livro   c) Darei-lhe o livro   d) Dar-ei-lhe o livro
@@ -77,8 +81,8 @@ d) Imperativo
 21. Qual obra de Machado de Assis, publicada em livro em 1881, é tradicionalmente apontada como marco inicial do Realismo brasileiro?
 a) Memórias Póstumas de Brás Cubas   b) O Cortiço   c) O Ateneu   d) Senhora
 
-22. Qual língua de Portugal teve seus direitos linguísticos oficialmente reconhecidos pela Lei n.º 7/99, de 29 de janeiro?
-a) Galego   b) Mirandês   c) Catalão   d) Basco
+22. Portugal possui uma segunda língua oficialmente reconhecida além do português? Se sim, qual?
+a) Sim, o galego   b) Sim, o mirandês   c) Sim, o catalão   d) Não, somente o português é reconhecido
 
 Gabarito
 
@@ -87,13 +91,13 @@ Gabarito
 3. b
 4. b
 5. a
-6. b
+6. a
 7. a
 8. c
 9. b
-10. a
+10. c
 11. b
-12. b
+12. a
 13. b
 14. b
 15. c
