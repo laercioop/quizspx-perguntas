@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#173d36">
+  <meta name="description" content="Gerador de perguntas para o quiz presencial da Festa de São Pio X.">
+  <title>Roteiro do Quiz — Festa de São Pio X</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#top" aria-label="Voltar ao início"><span class="brand-mark" aria-hidden="true">SPX</span><span><strong>Roteiro do Quiz</strong><small>Festa de São Pio X · 1ª edição</small></span></a>
+    <nav class="view-controls" aria-label="Opções de exibição">
+      <label class="switch"><span>Respostas</span><input type="checkbox" data-toggle="answers" checked><i aria-hidden="true"></i></label>
+      <label class="switch"><span>Alternativas</span><input type="checkbox" data-toggle="options" checked><i aria-hidden="true"></i></label>
+    </nav>
+  </header>
+  <main id="top">
+    <section class="intro" aria-labelledby="page-title">
+      <div><p class="edition">RODADA PRESENCIAL</p><h1 id="page-title">Perguntas prontas para o apresentador</h1><p>Uma rodada completa em seis blocos. Recolha respostas ou alternativas na barra acima e regenere apenas o trecho que precisar.</p></div>
+      <button class="generate-all" type="button" data-regenerate-all><span aria-hidden="true">↻</span> Gerar nova rodada</button>
+    </section>
+    <div class="round-summary" aria-live="polite"><span><strong>26</strong> perguntas nesta rodada</span><span class="round-id" data-round-id></span></div>
+    <div class="blocks" data-blocks></div>
+  </main>
+  <dialog class="confirm-dialog" data-confirm-dialog aria-labelledby="confirm-title">
+    <form method="dialog"><div class="dialog-icon" aria-hidden="true">↻</div><h2 id="confirm-title">Gerar outras perguntas?</h2><p data-confirm-message>As perguntas atuais deste bloco serão substituídas.</p><div class="dialog-actions"><button class="button-secondary" value="cancel">Cancelar</button><button class="button-primary" value="confirm">Sim, regerar</button></div></form>
+  </dialog>
+  <noscript>Este gerador precisa do JavaScript ativado para sortear as perguntas.</noscript>
+  <script src="presenter-data.js"></script><script src="app.js"></script>
+</body>
+</html>
