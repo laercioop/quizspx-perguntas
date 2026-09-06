@@ -4,3 +4,62 @@
 @media print{.topbar,.generate-all,.regenerate-button,.round-summary{display:none!important}body{background:white}main{width:100%;padding:0}.intro{margin-bottom:20px}.intro p{display:none}h1{font-size:24pt}.blocks{gap:8px}.quiz-block{break-inside:avoid;box-shadow:none;border:1px solid var(--line)}.block-content{grid-template-rows:1fr!important}.question-item{padding:10px 0}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important}}
 .hide-options [data-options]{display:none!important}
+
+/* Mobile layout refinements */
+body{overflow-x:hidden}
+@media(max-width:600px){
+  .topbar{position:relative;padding:10px 14px 12px;gap:10px}
+  .brand{justify-content:flex-start}
+  .brand-mark{flex:0 0 36px}
+  .view-controls{gap:8px}
+  .switch{min-height:44px;padding:0 4px;justify-content:center}
+  main{width:calc(100% - 24px);padding-top:28px}
+  .edition{text-align:center}
+  h1{font-size:2rem;line-height:1.12;text-align:center}
+  .intro p:last-child{font-size:.94rem;text-align:center}
+  .round-summary{padding-inline:2px}
+  .quiz-block{border-radius:12px}
+  .block-header{position:relative;min-height:82px;padding-right:50px}
+  .collapse-button{width:100%;padding:12px 8px 12px 14px;gap:9px}
+  .block-index{flex-basis:27px;font-size:1.05rem}
+  .block-heading strong{font-size:.96rem;line-height:1.25}
+  .block-heading small{font-size:.73rem;line-height:1.3}
+  .chevron{flex:0 0 auto}
+  .regenerate-button{position:absolute;top:50%;right:7px;width:42px;height:44px;margin:0;padding:0;justify-content:center;transform:translateY(-50%)}
+  .regenerate-button:active{transform:translateY(calc(-50% + 1px))}
+  .regenerate-button span:first-child{font-size:1.15rem}
+  .question-list{padding:2px 14px 7px}
+  .question-item{padding:18px 0}
+  .question-number{flex-basis:26px;height:26px}
+  .question-line p{overflow-wrap:anywhere;font-size:.95rem;line-height:1.42}
+  .options,.answer{margin-left:36px}
+  .options{margin-top:11px;gap:7px}
+  .options li{font-size:.88rem;line-height:1.38;overflow-wrap:anywhere}
+  .options b{flex-basis:23px;height:23px}
+  .answer{margin-top:11px;padding:9px 10px;font-size:.87rem;line-height:1.42;overflow-wrap:anywhere}
+  .confirm-dialog form{padding:22px}
+  .dialog-actions{display:grid;grid-template-columns:1fr 1fr}
+  .dialog-actions button{width:100%}
+}
+
+@media(max-width:380px){
+  .topbar{padding-inline:10px}
+  .brand strong{font-size:.94rem}
+  .view-controls{gap:2px}
+  .switch{gap:5px;font-size:.73rem}
+  .switch i{width:34px;height:20px}
+  .switch i:after{top:3px;left:3px;width:14px;height:14px}
+  .switch input:checked+i:after{transform:translateX(14px)}
+  main{width:calc(100% - 18px)}
+  h1{font-size:1.75rem}
+  .generate-all{min-height:48px}
+  .block-header{padding-right:45px}
+  .collapse-button{padding-left:10px;gap:7px}
+  .block-index{display:none}
+  .regenerate-button{right:5px;width:40px}
+  .question-list{padding-inline:11px}
+  .question-line{gap:8px}
+  .options,.answer{margin-left:34px}
+  .dialog-actions{grid-template-columns:1fr}
+  .button-primary{grid-row:1}
+}
