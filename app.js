@@ -7,7 +7,7 @@ const BLOCKS = [
   { id: 'sports-language-hard', number: 6, title: 'Esportes & Língua Portuguesa', note: 'Nível difícil', topics: ['sports', 'portuguese'], levels: ['hard', 'medium-hard', 'medium'], count: 5, balanced: true }
 ];
 const APOSTLES = { id: 'apostles', question: 'Quais eram os doze Apóstolos de Nosso Senhor Jesus Cristo?', answer: 'Simão Pedro, André, Tiago Maior, João, Filipe, Bartolomeu, Mateus, Tomé, Tiago Menor, Judas Tadeu, Simão Zelote e Judas Iscariotes (posteriormente substituído por São Matias).' };
-const state = { answers: true, options: true, selections: {}, pendingAction: null };
+const state = { answers: false, options: false, selections: {}, pendingAction: null };
 const $ = (selector, root = document) => root.querySelector(selector);
 const $$ = (selector, root = document) => [...root.querySelectorAll(selector)];
 
